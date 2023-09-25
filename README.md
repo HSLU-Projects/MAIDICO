@@ -22,8 +22,7 @@ The following topics will be covered in every section:
 
 #### Lessions Learned
 A business model is a holistic picture of the economic activities of a company.The following four dimensions can be used as a model:
-
-![business model definition](./resources/SW01-BM.png)
+<img src="./resources/SW01-BM.png" alt="business model definition" width="40%"/>
 
 To remain economically competitive, the business model must be regularly updated. While research and development departments aim to improve a company's technologies and products, the development of new business models is often neglected. 
 
@@ -42,7 +41,7 @@ Apply appropriate [business models](https://businessmodelnavigator.com/explore) 
 
 #### Reflection
 
-With my technical background, I tend to attribute success to good technologies and products. I have always wondered why a company like McDonalds, which in my opinion does not sell the best burgers, can be so successful. Apparently their key to success are some well coordinated business models.
+With my technical background, I tend to attribute success to good technologies and products. I have always wondered why a company like McDonalds, which in my opinion does not sell the best burgers, can be so successful. Apparently their key to success are some well coordinated business models:
 
 - No Frills: McDonals products are simple and the same nationwide
 - Franchising: Individual entrepreneurs can open branches
@@ -52,7 +51,7 @@ With my technical background, I tend to attribute success to good technologies a
 
 The unique and innovative combination of these business models ensures McDonalds' economic success.
 
-The lession for myself is to extend my scope not only to develop good technical solutions, but also to integrate them into a well-defined and thought-out strategy.
+The lession for myself is to extend my scope not only to develop good technical solutions, but also to integrate them into a well-defined and thought-out strategy. Furthermore it is very important to continously question and improve the currently implemented business model.
 
 #### Used Materials
 - [The St. Gallen Business
