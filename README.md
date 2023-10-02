@@ -52,8 +52,7 @@ With my technical background, I tend to attribute success to good technologies a
 
 The unique and innovative combination of these business models ensures McDonalds' economic success.
 
-The lesson for me is not to limit my scope of action to developing good technical solutions, but also to integrate them into a well-defined and thought-out strategy.  
-Such a strategy can be developed through a systematic thinking approach:
+The lesson for me is not to limit my scope of action to developing good technical solutions, but also to integrate them into a well-defined and thought-out strategy. Such a strategy can be developed through a systematic thinking approach:
 
 - Identify the stakeholders and their needs
 - Get them to work together in a profitable way
