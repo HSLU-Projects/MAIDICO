@@ -23,14 +23,14 @@ The following topics will be covered in every section:
 #### Lessions Learned
 A business model is a holistic picture of the economic activities of a company.The following four dimensions can be used as a model:
 
-![business model definition](./resources/SW01-BM.png)
+<img src="./resources/SW01-BM.png" alt="business model definition" width="40%"/>
 
 To remain economically competitive, the business model must be regularly updated. While research and development departments aim to improve a company's technologies and products, the development of new business models is often neglected. 
 
-In the future, competition will also include business models, hence it is important to improve in this area.
-Companies usually establish a common understanding of how they operate and how they maximize their profits. Therefore, certain patterns prevail that are not often challenged. These patterns prevent innovation and lead to an inability to adapt to change. This state of affairs can be disastrous for companies and lead to their ruin.
+In the future, competition will also include business models, hence it is important to adequately improve in this area too.
+Companies usually establish a common understanding of how they operate and how they maximize their profits. Therefore, certain patterns prevail that are often not challenged. These patterns prevent innovation and lead to an inability to adapt to change. This state of affairs can be disastrous for companies and lead to their ruin.
 
-Introducing innovations is a difficult task, as is developing a new business model. As there are many factors to consider, this task is best tackled by a group of experts.
+Introducing innovations is a difficult task, as is developing a new business model. As there are many factors to consider, this task is best tackled by a group of interdisciplinary experts.
 
 Steps to create an innovation workshop:
 
@@ -42,7 +42,7 @@ Apply appropriate [business models](https://businessmodelnavigator.com/explore) 
 
 #### Reflection
 
-With my technical background, I tend to attribute success to good technologies and products. I have always wondered why a company like McDonalds, which in my opinion does not sell the best burgers, can be so successful. Apparently their key to success are some well coordinated business models.
+With my technical background, I tend to attribute success to good technologies and products. I have always wondered why a company like McDonalds, which in my opinion does not sell the best burgers, can be so successful. Apparently their key to success are some well coordinated business models:
 
 - No Frills: McDonals products are simple and the same nationwide
 - Franchising: Individual entrepreneurs can open branches
@@ -52,7 +52,11 @@ With my technical background, I tend to attribute success to good technologies a
 
 The unique and innovative combination of these business models ensures McDonalds' economic success.
 
-The lession for myself is to extend my scope not only to develop good technical solutions, but also to integrate them into a well-defined and thought-out strategy.
+The lesson for me is not to limit my scope of action to developing good technical solutions, but also to integrate them into a well-defined and thought-out strategy. Such a strategy can be developed through a systematic thinking approach:
+
+- Identify the stakeholders and their needs
+- Get them to work together in a profitable way
+- Apply an appropriate revenue model
 
 #### Used Materials
 - [The St. Gallen Business
