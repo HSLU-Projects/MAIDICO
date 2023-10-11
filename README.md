@@ -1,4 +1,4 @@
-# MADICO Learning Journal
+# MAIDICO Learning Journal
 
 The aim of this journal is to account for the learning progress in the subject of managing digital companies. 
 
@@ -60,6 +60,86 @@ Model Navigator](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositor
 - [Business Models McDonalds](https://businessmodelnavigator.com/case-firm?id=63)
 
 ## International Business Activities
+To induce international business activites there is a necessity for a strategy for the following topics.
+
+##### Product Managment
+Think about an adequate product mix.
+![Product Mix](./resources/SW03-product-mix.png)
+
+- What are our core products?
+- Which additional products should we sell?
+- (How) should we adapt the products to the local market?
+- What after-sale services should we offer? (i.e. derlivery, installation...)
+
+Brand and made in
+standardize/adapt product?
+
+##### Pricing Strategy
+Reflect about the best pricing strategy to use:
+
+| **Method** 	    | **Strategy**          | **Description**           |
+|-----------	    |-----	                |-----	                    |
+| Cost based  	    | Standardized pricing 	| Same price everywhere     | 
+|           	    | Geocentric pricing  	| Price for geographic area |
+| Competitor based 	| Market penetration    | As low as possible        |
+|           	    | Market skimming       | Set deliberately high     |
+| Demand based 	    | Adaption pricing      | Based on local factors    |
+
+##### International Promotion
+A good reputation is necessary for business success.
+Therefore it is important to select decent promoting and selling channels.
+It depends on:
+- What's the audience?
+- What's the values of the communities/culture?
+
+Advertisement has to be legal, suitable and cost-conscious. Consider wheter to standardize or adopt advertisement to the respecitve audiences & culturess.
+
+##### Distribution and Logistics 
+A well organized distribution and logistics are a core compontent for business success. Consider wheter to choose B2C or B2B distribution.
+
+| **Method** 	    | **Advantages**                    | **Disadvantages**                     |
+|-----------	    |-----	                            |-----	                                |
+| B2C  	            | Direct access to the customer   	| High economical risks                 | 
+|           	    | Short channel (high profits)      | Intensive market research required    |
+|           	    |                                   |                                       |
+| B2B          	    | High quantities                   | Lower profits                         |
+|           	    | Market knowledge & network        | More distance to the customer         |
+|           	    | Shared economical risk            |                                       |
+|           	    | Additional services               |                                       |
+
+For B2B there are the following types of intermediaries:
+
+- Distributors: B2B Relationship with Manufacturers
+- Wholesalers: Buy large quantities direct from distributors
+- Retailers: Sell directly to the customer
+
+Intermediaries have to be chosen carefully based on the following criteria:
+
+- Skills, expertise, experience & reputation
+- Sales potential
+- Coverage of the target market (intensive, selective, exclusive)
+- Commitment for the partnership
+- Financial stability
+
+##### Service Product Characteristics
+Physical goods are tangible. It is nessecarry to offer the customer more than just a physical product at a low price. Modern economics are more about services which share the following properties:
+
+- Intangible (less comparable)
+- Perishability (can't be stored)
+- Heterogenity (difficult to standardize)
+- Inseperability (simultanious consumption and production)
+
+The elements to provide good services are:
+- well trained people
+- sophisticated process
+- try to create physical evidence
+
+#### Lessions Learned
+
+#### Reflection
+
+#### Used Materials
+[International Business Case Study](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6021619)
 
 ## Finance
 
