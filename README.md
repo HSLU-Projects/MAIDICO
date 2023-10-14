@@ -23,7 +23,7 @@ The following topics will be covered in every section:
 #### Lessions Learned
 A business model is a holistic picture of the economic activities of a company.The following four dimensions can be used as a model:
 
-<img src="./resources/SW01-BM.png" alt="business model definition" width="40%"/>
+<img src="./resources/SW01-BM.png" alt="business model definition" width="300px"/>
 
 To remain economically competitive, the business model must be regularly updated. While research and development departments aim to improve a company's technologies and products, the development of new business models is often neglected. 
 
@@ -64,22 +64,24 @@ Model Navigator](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositor
 - [Business Models McDonalds](https://businessmodelnavigator.com/case-firm?id=63)
 
 ## International Business Activities
-To induce international business activites there is a necessity for a strategy for the following topics.
 
-##### Product Managment
-Think about an adequate product mix.
-![Product Mix](./resources/SW03-product-mix.png)
+#### Lessions Learned
+In order to initiate international business activities, a strategy is required for the following topics:
 
-- What are our core products?
-- Which additional products should we sell?
-- (How) should we adapt the products to the local market?
-- What after-sale services should we offer? (i.e. derlivery, installation...)
+__1. Product Managment__
 
-Brand and made in
-standardize/adapt product?
+Think about an appropriate product mix.  
 
-##### Pricing Strategy
-Reflect about the best pricing strategy to use:
+<img src="./resources/SW03-product-mix.png" alt="product mix" width="500px"/>
+
+- What are the core products?
+- What additional products and services should be sold?
+- Should the products be adapted to the local market? How should they be introduced?
+- Can we maintain our product brand?
+
+__2. Pricing Strategy__
+
+Think about the best pricing strategy to address the target market.
 
 | **Method** 	    | **Strategy**          | **Description**           |
 |-----------	    |-----	                |-----	                    |
@@ -89,58 +91,60 @@ Reflect about the best pricing strategy to use:
 |           	    | Market skimming       | Set deliberately high     |
 | Demand based 	    | Adaption pricing      | Based on local factors    |
 
-##### International Promotion
-A good reputation is necessary for business success.
-Therefore it is important to select decent promoting and selling channels.
-It depends on:
-- What's the audience?
-- What's the values of the communities/culture?
+__3. International Promotion__
 
-Advertisement has to be legal, suitable and cost-conscious. Consider wheter to standardize or adopt advertisement to the respecitve audiences & culturess.
+A good reputation is essential for business success.
+Therefore, it is important to choose appropriate advertising and distribution channels. 
 
-##### Distribution and Logistics 
-A well organized distribution and logistics are a core compontent for business success. Consider wheter to choose B2C or B2B distribution.
+Important questions for appropriate advertising:
+- What is the target group?
+- What are popular advertising channels?
+- What are the values of the communities/culture?
 
-| **Method** 	    | **Advantages**                    | **Disadvantages**                     |
-|-----------	    |-----	                            |-----	                                |
-| B2C  	            | Direct access to the customer   	| High economical risks                 | 
-|           	    | Short channel (high profits)      | Intensive market research required    |
-|           	    |                                   |                                       |
-| B2B          	    | High quantities                   | Lower profits                         |
-|           	    | Market knowledge & network        | More distance to the customer         |
-|           	    | Shared economical risk            |                                       |
-|           	    | Additional services               |                                       |
+Advertising must be legal, appropriate and cost-conscious. Consider whether you want to standardise advertising or adapt it to the respective target groups and cultures.
 
-For B2B there are the following types of intermediaries:
+__4. Distribution and Logistics__
 
-- Distributors: B2B Relationship with Manufacturers
-- Wholesalers: Buy large quantities direct from distributors
+Well-organised distribution and logistics are central to business success. Consider whether you choose B2C or B2B business relationships.
+
+| **Method** 	    | **Advantages**                                | **Disadvantages**                     |
+|-----------	    |-----	                                        |-----	                                |
+| B2C  	            | Direct access to the customer   	            | High economic risk                    | 
+|           	    | Short distribution channels (high profits)    | Intensive market research required    |
+| B2B          	    | High volumes/quantities                       | Lower profits                         |
+|           	    | Market knowledge & network                    | Greater distance to the customer      |
+|           	    | Shared economic risk                          |                                       |
+|           	    | Additional services                           |                                       |
+
+In B2B, there are the following types of intermediaries:
+
+- Distributors: B2B relationship with manufacturers
+- Wholesalers: Buy large quantities directly from distributors
 - Retailers: Sell directly to the customer
 
-Intermediaries have to be chosen carefully based on the following criteria:
+Intermediaries must be carefully selected according to the following criteria:
 
-- Skills, expertise, experience & reputation
+- Skills, expertise, experience and reputation
 - Sales potential
 - Coverage of the target market (intensive, selective, exclusive)
-- Commitment for the partnership
+- Commitment to the partnership
 - Financial stability
 
 ##### Service Product Characteristics
-Physical goods are tangible. It is nessecarry to offer the customer more than just a physical product at a low price. Modern economics are more about services which share the following properties:
+Physical goods are tangible. It is necessary to offer the customer more than just a physical product at a low price. In the modern economy, it is more about services that have the following characteristics:
 
 - Intangible (less comparable)
-- Perishability (can't be stored)
-- Heterogenity (difficult to standardize)
-- Inseperability (simultanious consumption and production)
+- Perishable (cannot be stored)
+- Heterogeneity (difficult to standardise)
+- Irretrievability (simultaneous consumption and production).
 
-The elements to provide good services are:
-- well trained people
-- sophisticated process
-- try to create physical evidence
-
-#### Lessions Learned
+The elements for providing good services are:
+- Well-trained staff
+- Sophisticated procedures
+- Attempt to create physical evidence
 
 #### Reflection
+Lots of 
 
 #### Used Materials
 [International Business Case Study](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6021619)
