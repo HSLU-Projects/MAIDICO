@@ -130,8 +130,8 @@ Intermediaries must be carefully selected according to the following criteria:
 - Commitment to the partnership
 - Financial stability
 
-##### Service Product Characteristics
-Physical goods are tangible. It is necessary to offer the customer more than just a physical product at a low price. In the modern economy, it is more about services that have the following characteristics:
+__5. Service Product Characteristics__
+It is necessary to offer the customer more than just a physical product at a low price. In the modern economy, it is more about services that have the following characteristics:
 
 - Intangible (less comparable)
 - Perishable (cannot be stored)
@@ -139,12 +139,38 @@ Physical goods are tangible. It is necessary to offer the customer more than jus
 - Irretrievability (simultaneous consumption and production).
 
 The elements for providing good services are:
-- Well-trained staff
+
+- Well trained staff
 - Sophisticated procedures
 - Attempt to create physical evidence
 
 #### Reflection
-Lots of 
+On a high level, international business activities have many similarities with domestic business activities. Services and goods have to be produced, advertised, distributed and sold to customers. The way the customer experiences the providing process influences the image of the company/brand. Therefore, it is important to create an experience in the delivery to retain existing customers and attract new ones. To achieve this goal, it is necessary to know the market and find ways to optimise the customer experience at a given cost.
+
+On closer inspection, there are many differences and difficulties in detail. One of the biggest questions is whether to standardise or adapt, and if so, to what extent.
+
+Products can be adapted to different markets. If the development process takes place mainly at the headquarters in the country of residence, some cultural needs are probably not taken into account.  
+Example: Mali may not be the best market for a western company selling high quality induction cookers and pans.
+
+1. Traditional cooking practices in Mali rely heavily on open fire cooking 
+2. There are frequent power outages, making electric-powered cooking a poor option
+3. The country has a very low GDP per capita and therefore cannot afford high prices
+
+For these reasons, standardisation could not be achieved. An option would be to launch a new product line with low cost, open fire compatible cooking pans.
+
+In marketing, it is crucial to find the right way to approach customers. Cultural differences such as individualism or collectivism must be taken into account in advertising. Nevertheless, it is important not to individualise advertising too much, as this could lead to perceptual difficulties when customers travel to different countries where the same products are sold.  
+
+Pricing is more of a strategic matter. The choice of an appropriate pricing strategy depends equally on the target market, competition, financial resources and the company's long-term goals in that market. If demand for a product is very high and competition is low, prices can be set as follows.
+
+1. be set deliberately low to achieve large volumes
+2. deliberately set high to achieve high profits.
+
+The strategies could have the following long-term consequences:
+
+1. the company would most likely become the market leader. The risk would be that the market would become oversaturated and profits would fall.
+2. the high profits would most likely attract other competitors. Therefore, profits should be reinvested to maintain a good market position.
+
+I have learned that success in international business depends on gaining the right insights and choosing a strategy that best fits these conditions. The most difficult thing is to gain the right insights because we tend to think in learned patterns. These patterns change when you engage with other cultures, and there is a great danger that you simply forget a crucial aspect for business success. The best way to counter this risk is to reach out to local people and build international relationships.
 
 #### Used Materials
 [International Business Case Study](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6021619)
