@@ -195,12 +195,33 @@ Financial management can be split in three types:
 [What is Financial Management](https://www.youtube.com/watch?v=WNm_ez1h7Tc)
 
 ## Sustainability Management
-![Takacs et al.](./resources/SW06-Business_Model_Innovation.png)
+<img src="./resources/SW06-Business_Model_Innovation.png" alt="Business Model Innovation Takacs et al." width="550px"/>
 
 #### Lessions Learned
 The attitude of companies has a major influence on climate protection measures. Sustainability is often part of the risk management department or even outsourced. Although climate marketing is now widespread, climate action has not increased significantly. This phenomenon is called the "Big Disconnect". The production of services and goods generates external effects such as waste or greenhouse gases. These external effects are not taken into account transparently in the pricing models.
 
-One countermeasure would be the creation of a circular economy in which resources and products remain in circulation as long as possible, thus reducing waste streams and the need for raw materials. The proper recycling of all raw materials can therefore only be achieved by building a circular ecosystem in which economic growth and material extraction can finally be decoupled. A circular ecosystem coordinates itself across the business models of different complementors to create sustainable value propositions with closed resource loops that are based on an aligned product design.
+One countermeasure would be the creation of a circular economy in which resources and products remain in circulation as long as possible, thereby reducing waste flows and minimising the need for new raw materials. The proper recycling of all raw materials can therefore only be achieved by building a circular ecosystem in which economic growth and material extraction can finally be decoupled. A circular ecosystem coordinates across the business models of different complementarities to create sustainable value propositions with closed resource loops based on coordinated product design. The environmental, social and financial implications of such an economy are very promising. Many environmental problems could be solved and revenues could be increased due to the potential for resource savings.
+
+<img src="./resources/SW06-Sustainable_BM.png" alt="Sustainable Business Model Takacs et al." width="350px"/>
+
+This picture illustrates that any adjustment in one of the dimensions of the business model has a direct impact on at least two dimensions of sustainability. Therefore, adjustments need to be carefully considered and take into account the entire product life cycle as well as the impact on the entire ecosystem, like business partners or suppliers.
+
+The 38 patterns of circular economy delivers a toolbox to gain such a holistic image of the business environment.
+
+<img src="./resources/SW06-38Patterns.png" alt="Sustainable Business Model Takacs et al." width="500px"/>
+
+The patterns are divided into four categories:
+
+- Closing the loop: Focuses on maximising the recovery of a product and minimising the need for new raw materials.
+- Improving the cycle: Focuses on improvements in the use phase of a product and reducing undesirable, negative impacts
+- Monetising the cycle: focuses on revenue and appropriate consumption
+- Stimulating the cycle: Focuses on awareness raising and customer engagement 
+
+The goal of a sustainable economy is to incorporate material science and business perspectives to create innovation in collaboration with businesses partners.  
+
+<img src="./resources/SW06-CircularCanvas.png" alt="Circular Canvas Takacs et al." width="450px"/>
+
+The circular canvas visualises the business activities involved to promote a circular product life cycle.
 
 #### Reflection
 
