@@ -176,6 +176,23 @@ I have learned that success in international business depends on gaining the rig
 [International Business Case Study](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6021619)
 
 ## Finance
+Objectives:
+
+- Maximize profits: Giving insights on costs and revenue
+- Track liquidity and cash flow: accounting and book keeping
+- Ensure optimum funds utilization: maximise profits by lowering cost
+- Provide safety on investment: maximize return on investment
+- Plan a sound capital structure: Balance between dept- and equity capital
+- Secure returns to shareholders
+
+Financial management can be split in three types:
+
+- Managing capital structure
+- Budgeting
+- General capital management
+
+#### Used Materials
+[What is Financial Management](https://www.youtube.com/watch?v=WNm_ez1h7Tc)
 
 ## Sustainability Management
 
