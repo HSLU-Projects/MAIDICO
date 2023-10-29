@@ -176,12 +176,43 @@ I have learned that success in international business depends on gaining the rig
 [International Business Case Study](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6021619)
 
 ## Finance
+Objectives:
+
+- Maximize profits: Giving insights on costs and revenue
+- Track liquidity and cash flow: accounting and book keeping
+- Ensure optimum funds utilization: maximise profits by lowering cost
+- Provide safety on investment: maximize return on investment
+- Plan a sound capital structure: Balance between dept- and equity capital
+- Secure returns to shareholders
+
+Financial management can be split in three types:
+
+- Managing capital structure
+- Budgeting
+- General capital management
+
+#### Used Materials
+[What is Financial Management](https://www.youtube.com/watch?v=WNm_ez1h7Tc)
 
 ## Sustainability Management
+[Takacs et al.](./resources/SW06-Business_Model_Innovation.png)
+
+#### Lessions Learned
+The attitude of companies has a major influence on climate protection measures. Sustainability is often part of the risk management department or even outsourced. Although climate marketing is now widespread, climate action has not increased significantly. This phenomenon is called the "Big Disconnect". The production of services and goods generates external effects such as waste or greenhouse gases. These external effects are not taken into account transparently in the pricing models.
+
+One countermeasure would be the creation of a circular economy in which resources and products remain in circulation as long as possible, thus reducing waste streams and the need for raw materials. The proper recycling of all raw materials can therefore only be achieved by building a circular ecosystem in which economic growth and material extraction can finally be decoupled. A circular ecosystem coordinates itself across the business models of different complementors to create sustainable value propositions with closed resource loops that are based on an aligned product design.
+
+#### Reflection
+
+
+#### Used Materials
+- Business Model Innovation for the Circular Economy (Takacs et al.)
+
 
 ## International- and People Management
 
 ## Development Tools
 
 ## IT Governance
+
 
