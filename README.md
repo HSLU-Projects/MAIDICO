@@ -198,9 +198,19 @@ Financial management can be split in three types:
 <img src="./resources/SW06-Business_Model_Innovation.png" alt="Business Model Innovation Takacs et al." width="550px"/>
 
 #### Lessions Learned
-The attitude of companies has a major influence on climate protection measures. Sustainability is often part of the risk management department or even outsourced. Although climate marketing is now widespread, climate action has not increased significantly. This phenomenon is called the "Big Disconnect". The production of services and goods generates external effects such as waste or greenhouse gases. These external effects are not taken into account transparently in the pricing models.
+The attitude of companies has a major influence on climate protection measures. Sustainability is often part of the risk management department or even outsourced. Although climate marketing is now widespread, climate action has not increased significantly. This phenomenon is called the "Big Disconnect".
 
-One countermeasure would be the creation of a circular economy in which resources and products remain in circulation as long as possible, thereby reducing waste flows and minimising the need for new raw materials. The proper recycling of all raw materials can therefore only be achieved by building a circular ecosystem in which economic growth and material extraction can finally be decoupled. A circular ecosystem coordinates across the business models of different complementarities to create sustainable value propositions with closed resource loops based on coordinated product design. The environmental, social and financial implications of such an economy are very promising. Many environmental problems could be solved and revenues could be increased due to the potential for resource savings.
+Three different corporate attitudes can be identified in relation to sustainability:
+
+__0.0:__ One-dimensional concern &rarr; Financial only, the company tends to improve returns to shareholders through externalisation.  
+__1.0:__ Three-dimensional concern &rarr; Including social and economic factors, often due to external pressure.  
+__2.0:__ Tripple bottom line &rarr; Financial, environmental and social factors are managed and reported _equally_. Such companies aim to create social, environmental and financial value.  
+__3.0:__ Outside in &rarr; Every sustainability problem is a business opportunity. Such companies make money by solving environmental and social problems.
+
+The production of services and goods generates external effects such as waste or greenhouse gases. Today, these externalities are not taken into account in a transparent way when developing pricing models. For a more sustainable future, it is important to create a circular economy in which resources and products remain in circulation as long as possible, reducing waste streams and minimising the need for new raw materials. In such an economy, growth and material extraction can finally be decoupled. A circular economy consists of several circular ecosystems.
+A circular ecosystem coordinates different business models that complement each other to create sustainable value propositions with closed resource loops based on coordinated product design.
+
+The environmental, social and financial implications of a circular economy are very promising. Many environmental problems could be solved and revenues increased due to the huge potential for resource savings.
 
 <img src="./resources/SW06-Sustainable_BM.png" alt="Sustainable Business Model Takacs et al." width="350px"/>
 
