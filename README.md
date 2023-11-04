@@ -172,27 +172,38 @@ The strategies could have the following long-term consequences:
 
 I have learned that success in international business depends on gaining the right insights and choosing a strategy that best fits these conditions. The most difficult thing is to gain the right insights because we tend to think in learned patterns. These patterns change when you engage with other cultures, and there is a great danger that you simply forget a crucial aspect for business success. The best way to counter this risk is to reach out to local people and build international relationships.
 
-#### Used Materials
-[International Business Case Study](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6021619)
-
 ## Finance
-Objectives:
 
-- Maximize profits: Giving insights on costs and revenue
-- Track liquidity and cash flow: accounting and book keeping
-- Ensure optimum funds utilization: maximise profits by lowering cost
-- Provide safety on investment: maximize return on investment
-- Plan a sound capital structure: Balance between dept- and equity capital
-- Secure returns to shareholders
+### Lessions Learned
+Financial management involves planning, organizing, controlling, and monitoring financial resources to achieve organizational goals efficiently. Its primary objectives are to maximize wealth, ensure liquidity, manage risks, and make effective financial decisions. Key activities in financial management include:
 
-Financial management can be split in three types:
+1. __Financial Planning__: Developing budgets, forecasts, and strategies to align financial resources with business goals.
+2. __Capital Structure Management__: Determining the right mix of debt and equity to fund operations while minimizing costs and maximizing returns.
+3. __Investment Decisions__: Evaluating potential opportunities to invest in projects or assets that yield the highest returns.
+4. __Risk Management__: Identifying, assessing, and mitigating financial risks to protect the organization's assets and financial health.
+5. __Working Capital Management__: Monitoring and managing short-term assets and liabilities to ensure smooth operational efficiency.
 
-- Managing capital structure
-- Budgeting
-- General capital management
+Financial management is crucial for any organization, as it ensures the efficient use of resources, minimizes financial risks, and ultimately contributes to the achievement of long-term business objectives.
+
+There are Key Performance Indicators (KPIs) to transparently compare sales, costs, margins, profit and investments.
+
+To avoid distorting the KPIs between different departments, services and goods should be offered at transfer prices. These should be chosen strategically:
+
+- Market-based: to increase the profit margin of production
+- Cost-based: to increase turnover
+- Negotiated: to optimise turnover and profit margin
+- Managed: to keep them under tight control
+
+### Reflection
+Financial management is crucial for the success and sustainability of any business. Its importance goes beyond accounting, it's a strategic approach that impacts every aspect of an organization. By effectively managing finances, a company can make informed decisions, allocate resources wisely, and mitigate risks. It is about focussing the company on its goals and finding its way in a complex economic environment.
+
+The following paragraph is a good example of what financial management can achieve at government level:
+As this [paper](https://www.oecd.org/sti/inno/33719708.pdf) shows, OECD member countries have largely increased funding for research and development (R&D). Higher levels of R&D funding are seen as contributing to an innovation process that improves economic performance, increases productivity and leads to higher wages and living standards. But the realisation of R&D goals goes beyond financial objectives and requires social and economic restructuring. This includes shifts in the industrial structure towards high-technology sectors, improvements in public research policy and a stronger focus on skilled labour.
 
 #### Used Materials
-[What is Financial Management](https://www.youtube.com/watch?v=WNm_ez1h7Tc)
+- [What is Financial Management](https://www.youtube.com/watch?v=WNm_ez1h7Tc)
+- [Kapitalrendite](https://www.alpha-star-aktienfonds.de/blog/aktienbewertung/kapitalrendite/)
+- [TARGETING R&D: ECONOMIC AND POLICY IMPLICATIONS OF INCREASING R&D SPENDING (Sheehan & Wyckoff)](https://www.oecd.org/sti/inno/33719708.pdf)
 
 ## Sustainability Management
 <img src="./resources/SW06-Business_Model_Innovation.png" alt="Business Model Innovation Takacs et al." width="550px"/>
@@ -238,7 +249,6 @@ The circular canvas visualises the business activities involved to promote a cir
 
 #### Used Materials
 - Business Model Innovation for the Circular Economy (Takacs et al.)
-
 
 ## International- and People Management
 
