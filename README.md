@@ -198,6 +198,7 @@ To avoid distorting the KPIs between different departments, services and goods s
 Financial management is crucial for the success and sustainability of any business. Its importance goes beyond accounting, it's a strategic approach that impacts every aspect of an organization. By effectively managing finances, a company can make informed decisions, allocate resources wisely, and mitigate risks. It is about focussing the company on its goals and finding its way in a complex economic environment.
 
 The following paragraph is a good example of what financial management can achieve at government level:
+
 As this [paper](https://www.oecd.org/sti/inno/33719708.pdf) shows, OECD member countries have largely increased funding for research and development (R&D). Higher levels of R&D funding are seen as contributing to an innovation process that improves economic performance, increases productivity and leads to higher wages and living standards. But the realisation of R&D goals goes beyond financial objectives and requires social and economic restructuring. This includes shifts in the industrial structure towards high-technology sectors, improvements in public research policy and a stronger focus on skilled labour.
 
 #### Used Materials
@@ -245,7 +246,11 @@ The goal of a sustainable economy is to incorporate material science and busines
 The circular canvas visualises the business activities involved to promote a circular product life cycle.
 
 #### Reflection
+It's evident that achieving a sustainable economy requires a significant shift in corporate mindset and practices. The need to move beyond mere marketing strategies towards tangible actions and integrated sustainability across all aspects of a business model is crucial. The emphasis on the circular economy, with its focus on reducing waste and promoting responsible consumption, is a promising approach.
 
+The interconnected nature of business activities and their impact on the environment and society underscores the complexity and importance of a holistic approach. Companies need to consider the broader ecosystem, engage with stakeholders, and innovate in collaboration to create sustainable solutions.
+
+The toolbox of 38 patterns of the circular economy provides a practical framework for companies to adapt their strategies, encouraging a shift towards a more sustainable future. By focusing on aspects such as closing the loop, improving cycles, monetizing responsible consumption, and stimulating awareness, businesses can take concrete steps towards a circular economy.
 
 #### Used Materials
 - Business Model Innovation for the Circular Economy (Takacs et al.)
