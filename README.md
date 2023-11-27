@@ -255,9 +255,59 @@ The toolbox of 38 patterns of the circular economy provides a practical framewor
 #### Used Materials
 - Business Model Innovation for the Circular Economy (Takacs et al.)
 
-## International- and People Management
-
 ## Development Tools
+Business development tools aim to encompass resources of a company to growth and success. These tools play a crucial role in streamlining processes, fostering collaboration, and maximizing efficiency across different departments.
+
+Sales and marketing tools form a significant category within business development, aiding in lead generation, customer relationship management (CRM), and campaign optimization. These tools often include features for analytics, automation, and personalized communication to help businesses better understand and engage with their target audience.
+
+__Customer Journey__ integration is a key feature, enabling teams to gain valuable insights into user experiences and preferences. By mapping out the customer journey, the tool helps identify pain points and opportunities for improvement, ensuring that the end product aligns closely with user needs and expectations.
+
+<img src="./resources/SW10-CustomerJourney.png" alt="Customer Journey" width="600px"/>  
+
+Steps to take:
+
+- Research and data collection
+- Build target group personas
+- Define touchpoints and channels
+- Define information needs
+- Visualize customer journey
+
+
+__Design Thinking__ principles are woven into the fabric of the development tool, promoting a user-centric approach. This involves empathizing with end-users, defining problem statements, ideating creative solutions, prototyping, and testing. The iterative nature of Design Thinking is seamlessly supported, allowing for continuous refinement based on user feedback and evolving requirements.
+
+<img src="./resources/SW10-DesignThinking.png" alt="Design Thinking" width="600px"/>  
+
+Steps to take:
+
+- Define the problem
+- Define customer needs
+- Conceptionalize
+- Prototyping
+- Feedback loop
+- Improvement
+
+__Knowledge Management__ is a central component, facilitating the efficient sharing and utilization of information across teams. The tool serves as a repository for best practices, lessons learned, and insights gathered throughout the development lifecycle. This knowledge-sharing mechanism enhances collaboration, accelerates decision-making, and prevents the duplication of efforts.
+
+In essence, the key lies in a strategic and thoughtful selection of development tools, aligning them with organizational objectives, and fostering a culture that embraces continuous improvement and sustainability.
+
+<img src="./resources/SW10-KnowledgeManagement.png" alt="Knowledge Management" width="600px"/>  
+
+Steps:
+- Understand the flow of knowledge in your organization
+- Clearly define your goals and how you will measure them
+- Encourage socialization
+- Generate new knowledge
+- Employ technology
+
+#### Reflection
+Integrating business development tools, customer journey design thinking, and knowledge management yields both short-term benefits and long-term strategic advantages. In the short term, tools like CRM systems enhance sales efficiency, while design thinking quickly improves customer satisfaction and problem-solving. Knowledge management facilitates swift onboarding and immediate issue resolution. In the long term, these elements collectively contribute to scalable growth, brand loyalty, and institutional knowledge preservation. A holistic approach ensures quick wins in efficiency and satisfaction, while a forward-looking strategy supports sustained innovation, adaptability, and organizational resilience. The synergy of short-term agility and long-term foresight creates a robust foundation for a thriving business ecosystem.
+
+#### Used Materials
+- [In 7 Schritten zur Customer-Journey](https://www.mysdm.ch/blog/in-7-schritten-zur-customer-journey-uebersicht/)
+- [Design Thinking – Mit Methode komplexe Aufgaben lösen und neue Ideen entwickeln](https://digitaleneuordnung.de/blog/design-thinking-methode/)
+- [Knowledge Management](https://www.smartsheet.com/knowledge-management-101)
+
+## International- and People Management
 
 ## IT Governance
 
