@@ -273,7 +273,7 @@ Steps to take:
 - Visualize customer journey
 
 
-__Design Thinking__ principles are woven into the fabric of the development tool, promoting a user-centric approach. This involves empathizing with end-users, defining problem statements, ideating creative solutions, prototyping, and testing. The iterative nature of Design Thinking is seamlessly supported, allowing for continuous refinement based on user feedback and evolving requirements.
+__Design Thinking__ principle is a development tool, promoting a user-centric approach. This involves empathizing with end-users, defining problem statements, ideating creative solutions, prototyping, and testing. The iterative nature of Design Thinking is seamlessly supported, allowing for continuous refinement based on user feedback and evolving requirements.
 
 <img src="./resources/SW10-DesignThinking.png" alt="Design Thinking" width="600px"/>  
 
@@ -284,11 +284,9 @@ Steps to take:
 - Conceptionalize
 - Prototyping
 - Feedback loop
-- Improvement
+- Implementation & improvement
 
 __Knowledge Management__ is a central component, facilitating the efficient sharing and utilization of information across teams. The tool serves as a repository for best practices, lessons learned, and insights gathered throughout the development lifecycle. This knowledge-sharing mechanism enhances collaboration, accelerates decision-making, and prevents the duplication of efforts.
-
-In essence, the key lies in a strategic and thoughtful selection of development tools, aligning them with organizational objectives, and fostering a culture that embraces continuous improvement and sustainability.
 
 <img src="./resources/SW10-KnowledgeManagement.png" alt="Knowledge Management" width="600px"/>  
 
@@ -300,7 +298,10 @@ Steps:
 - Employ technology
 
 #### Reflection
-Integrating business development tools, customer journey design thinking, and knowledge management yields both short-term benefits and long-term strategic advantages. In the short term, tools like CRM systems enhance sales efficiency, while design thinking quickly improves customer satisfaction and problem-solving. Knowledge management facilitates swift onboarding and immediate issue resolution. In the long term, these elements collectively contribute to scalable growth, brand loyalty, and institutional knowledge preservation. A holistic approach ensures quick wins in efficiency and satisfaction, while a forward-looking strategy supports sustained innovation, adaptability, and organizational resilience. The synergy of short-term agility and long-term foresight creates a robust foundation for a thriving business ecosystem.
+The integration of business development tools, customer journey, design thinking and knowledge management leads to significant strategic advantages.  
+Design thinking focuses on short- to medium-term improvements, while the customer journey is geared towards the long term. While these two techniques are product and customer-centric and prioritise effectiveness, knowledge management focuses on internal efficiency by enabling rapid onboarding and immediate problem solving. 
+
+In the long term, these elements together contribute to scalable growth, brand loyalty and the retention of institutional knowledge. A holistic approach ensures internal efficiency and satisfaction gains, while a forward-looking strategy promotes sustainable innovation, adaptability and organisational resilience. The synergy of short-term agility and long-term foresight creates a solid foundation for a thriving business ecosystem.
 
 #### Used Materials
 - [In 7 Schritten zur Customer-Journey](https://www.mysdm.ch/blog/in-7-schritten-zur-customer-journey-uebersicht/)
