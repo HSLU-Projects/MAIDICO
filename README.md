@@ -256,6 +256,8 @@ The toolbox of 38 patterns of the circular economy provides a practical framewor
 - Business Model Innovation for the Circular Economy (Takacs et al.)
 
 ## Development Tools
+
+#### Lessions Learned
 Business development tools aim to encompass resources of a company to growth and success. These tools play a crucial role in streamlining processes, fostering collaboration, and maximizing efficiency across different departments.
 
 Sales and marketing tools form a significant category within business development, aiding in lead generation, customer relationship management (CRM), and campaign optimization. These tools often include features for analytics, automation, and personalized communication to help businesses better understand and engage with their target audience.
@@ -309,6 +311,51 @@ In the long term, these elements together contribute to scalable growth, brand l
 - [Knowledge Management](https://www.smartsheet.com/knowledge-management-101)
 
 ## International- and People Management
+In a rapidly changing and increasingly digitalised world, the nature of leadership has changed dramatically. Postmodernism is characterised by pluralisation, heterogeneity, individuality and non-generalisability, which leads to many divergent lifestyles. This plurality of lifestyles also leads to a plurality of truths and knowledge, which has an impact on modern companies and their approaches on leadership.
+
+With the following key characteristics, new leadership can overcome postmodern challenges and lead organisations more effectively:
+
+1. __Social constructivist basis__: A social constructivism requires respectful dialogues,
+a perception of oneself and others and an understanding of interrelations. Leadership has a role to
+play in allowing and fostering subjective views, inter-subject dialogues, and the co-existence of
+multiple perspectives.
+
+2. __Systemic leadership and systemic thinking__: Understanding systems and fostering systemic thinking is instrumental to capture complexities, dynamics and dependencies in today’s world and postmodern society
+
+3. __Meaningful and sense-searching nature__: An intention, an objective, a mission or even vision which emerges from a
+joint, implicit, or explicit process. It is shared meaningfulness which makes up a community and differentiates it from an unformed team.
+
+4. __Participatory character, embedded in structures or processes__: Leadership in a participative context involves equal-level interactions, active participation, and co-construction facilitated by the leader. This requires interactive discourse and negotiation, with the leader orchestrating the processes.
+
+5. __Empowerment as an individual and collective experience__: Empowerment can be conceptualized by three terms: a ‘process’ of empowering groups or individuals, an ‘outcome’ in that a person or group is empowered, and the empowering ‘subject’, i.e., the leader with his or her character traits and actions that hinder or foster an empowering process.
+
+6. __Philosophy of bridge building against polarization__: Promoting community building and bridge-building involves avoiding the creation of exclusive and elitist groups, instead focusing on inclusivity and bridging divides. The goal is to unite rather than deepen trenches of segregation.
+
+In addition to leadership, there are other strategic means of guiding a company towards sustainability. One technique is the Balanced Score Card (BSC). The card consists of four equally important dimensions. These dimensions must be measurable and should be kept simple.
+
+<img src="./resources/SW12_BSC.png" alt="Balanced Score Card" width="500px"/>  
+
+Development:
+
+1. The center of the BSC is the business vision
+2. Find four perspectives, recommended: financial, self-, customer- and process-directed
+3. Link perspectives: Define objectives and goals and determine the relevant measurements
+4. Strategic mapping &rarr; involves visually representing the cause-and-effect relationships between these perspectives to align and communicate the organization's strategy
+5. Share and communicate &rarr; create meaning  
+
+Evaluation:  
+The evaluation process can be carried out by assessing the following key points for the company:
+
+<img src="./resources/SW12_Governance.png" alt="Subsidiary Governance" width="650px"/>  
+
+<img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="350px"/> 
+
+#### Reflection
+
+
+#### Used Materials
+- [New leadership – Rethinking business
+leadership in postmodern societies](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6093230)
 
 ## IT Governance
 
