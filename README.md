@@ -9,6 +9,8 @@ The following topics will be covered in every section:
 
 ![Cover Image](./resources/Cover.png)
 
+The review to the MAIDICO can be found [here](./ClassReview.md)
+
 ## Table of Contents  
 - [SDGs and New Business Development Case](#sdgs-and-new-business-development-case) 
 - [International Business Activities](#international-business-activities)
@@ -346,17 +348,57 @@ Development:
 Evaluation:  
 The evaluation process can be carried out by assessing the following key points for the company:
 
-<img src="./resources/SW12_Governance.png" alt="Subsidiary Governance" width="650px"/>  
+<img src="./resources/SW12_Governance.png" alt="Subsidiary Governance" width="700px"/>  
 
-<img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="350px"/> 
+<img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="300px"/> 
 
 #### Reflection
-
+With the influencing factors of digitalisation and globalisation, the modern society rapidly changes. Finding the answer to questions requires a process of taking multiple perspectives into account. Therefore this task can not carried out by an individual which makes it even more important to work in equal groups. 
 
 #### Used Materials
 - [New leadership – Rethinking business
 leadership in postmodern societies](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6093230)
 
 ## IT Governance
+
+### Lessions Learned
+
+IT governance is a crucial aspect of organizational management that ensures effective and efficient use of IT resources, aligning IT strategies with business goals, managing risks, and ensuring compliance with legal and regulatory requirements. It involves the establishment of structures, processes, and mechanisms to guide and control IT activities within an organization.
+
+#### Service Management System ISO/IEC 20000-1:2018:
+A standard that outlines the requirements for establishing, implementing, maintaining, and continually improving a service management system (SMS). It is particularly focused on IT service management (ITSM) and provides a framework for organizations to deliver high-quality services. Compliance with ISO/IEC 20000-1 signifies a commitment to service excellence, process improvement, and customer satisfaction.
+
+<img src="./resources/ISO20000-2.png" alt="ISO-IEC-38500-2015" width="500px"/> 
+
+#### Corporate Governance of IT ISO/IEC 38500:2015:
+Provides principles and guidelines for the effective, efficient, and acceptable use of IT within an organization. It emphasizes the need for alignment between IT and overall business strategy, risk management, and performance measurement. ISO/IEC 38500 is designed to help organizations achieve better governance of their IT activities, ensuring that IT decisions contribute to overall business success.
+
+<img src="./resources/ISO-IEC-38500-2015.jpg" alt="ISO-IEC-38500-2015" width="300px"/> 
+
+#### COBIT (Control Objectives for Information and Related Technologies):
+A framework developed by ISACA that provides a comprehensive set of best practices for IT governance and management. It aligns IT goals with business objectives, emphasizing the importance of risk management, resource optimization, and process improvement. COBIT is widely used for establishing and maintaining governance and control over IT processes and is regularly updated to address evolving industry needs.
+
+<img src="./resources/COBIT.png" alt="COBIT" width="400px"/> 
+
+#### ITIL (Information Technology Infrastructure Library):
+ITIL is a set of practices for IT service management (ITSM) that focuses on aligning IT services with the needs of the business. It provides a framework for planning, delivering, and supporting IT services and is widely adopted globally. ITIL defines processes, roles, and responsibilities to improve efficiency, service quality, and customer satisfaction.
+
+#### Conclusion
+Organizations often integrate multiple standards and frameworks to create a comprehensive IT governance strategy. For example, they might use ISO/IEC 20000-1 for service management, ISO/IEC 38500 for overarching IT governance principles, COBIT for control and governance practices, and ITIL for specific service management processes.
+
+### Reflection
+Over 14 years of working experience in IT, transitioning from support to system administration and software development, I've come to deeply value a well-organized IT strategy. Starting in user support, I realized the importance of efficient processes. System administration introduced me to frameworks like ITIL and ISO/IEC 20000-1, emphasizing service management. As a software developer, aligning development with business goals became a priority, highlighting the need for a cohesive strategy.
+
+The integration of ISO/IEC 38500, COBIT, and ITIL has been crucial in achieving IT excellence. These frameworks provide a structured approach, ensuring seamless coordination across IT activities. They've not only shaped my problem-solving approach but also fostered a culture of continuous improvement, a core tenet of ITIL.
+
+Reflecting on my journey, a well-organized IT strategy is not just theoretical; it's a practical necessity. It harmonizes service delivery, risk management, and resource optimization. Looking ahead, I'm ready to contribute to evolving IT governance, embracing new methodologies, and ensuring organizations thrive through robust strategies.
+
+### Used Material
+- [ISO/IEC 38500 Standard](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6107084)
+- [ISO/IEC 20000-1 Standard](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6107083)
+- [ITIL ISO20000:2018](https://blog.itil.org/2018/08/iso20002018-version-3-next-generation-service-management-system/)
+- [COBIT Toolkit](https://www.isaca.org/resources/cobit)
+- [cobit-5 Key Concepts](https://www.itsm-docs.com/blogs/cobit/cobit-5-key-concepts)
+- [Servicetonic ITIL Introcuction](https://www.servicetonic.com/itil/introduction-to-itil-v3/)
 
 
