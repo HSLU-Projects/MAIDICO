@@ -1,6 +1,6 @@
 # MAIDICO Learning Journal
 
-The aim of this journal is to account for the learning progress in the subject of managing digital companies. 
+The aim of this journal is to account for the learning progress in the subject managing digital companies. 
 
 The following topics will be covered in every section:
 - lessions learned
@@ -9,7 +9,7 @@ The following topics will be covered in every section:
 
 ![Cover Image](./resources/Cover.png)
 
-The review to the MAIDICO can be found [here](./ClassReview.md)
+__The review of the subject MAIDICO can be found [here](./SubjectReview.md)__
 
 ## Table of Contents  
 - [SDGs and New Business Development Case](#sdgs-and-new-business-development-case) 
@@ -22,7 +22,6 @@ The review to the MAIDICO can be found [here](./ClassReview.md)
 
 ## SDGs and New Business Development Case
 
-#### Lessions Learned
 A business model is a holistic picture of the economic activities of a company.The following four dimensions can be used as a model:
 
 <img src="./resources/SW01-BM.png" alt="business model definition" width="300px"/>
@@ -67,7 +66,6 @@ Model Navigator](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositor
 
 ## International Business Activities
 
-#### Lessions Learned
 In order to initiate international business activities, a strategy is required for the following topics:
 
 __1. Product Managment__
@@ -176,7 +174,6 @@ I have learned that success in international business depends on gaining the rig
 
 ## Finance
 
-### Lessions Learned
 Financial management involves planning, organizing, controlling, and monitoring financial resources to achieve organizational goals efficiently. Its primary objectives are to maximize wealth, ensure liquidity, manage risks, and make effective financial decisions. Key activities in financial management include:
 
 1. __Financial Planning__: Developing budgets, forecasts, and strategies to align financial resources with business goals.
@@ -211,7 +208,6 @@ As this [paper](https://www.oecd.org/sti/inno/33719708.pdf) shows, OECD member c
 ## Sustainability Management
 <img src="./resources/SW06-Business_Model_Innovation.png" alt="Business Model Innovation Takacs et al." width="550px"/>
 
-#### Lessions Learned
 The attitude of companies has a major influence on climate protection measures. Sustainability is often part of the risk management department or even outsourced. Although climate marketing is now widespread, climate action has not increased significantly. This phenomenon is called the "Big Disconnect".
 
 Three different corporate attitudes can be identified in relation to sustainability:
@@ -259,7 +255,6 @@ The toolbox of 38 patterns of the circular economy provides a practical framewor
 
 ## Development Tools
 
-#### Lessions Learned
 Business development tools aim to encompass resources of a company to growth and success. These tools play a crucial role in streamlining processes, fostering collaboration, and maximizing efficiency across different departments.
 
 Sales and marketing tools form a significant category within business development, aiding in lead generation, customer relationship management (CRM), and campaign optimization. These tools often include features for analytics, automation, and personalized communication to help businesses better understand and engage with their target audience.
@@ -350,7 +345,7 @@ The evaluation process can be carried out by assessing the following key points 
 
 <img src="./resources/SW12_Governance.png" alt="Subsidiary Governance" width="700px"/>  
 
-<img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="300px"/> 
+<img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="350px"/> 
 
 #### Reflection
 With the influencing factors of digitalisation and globalisation, the modern society rapidly changes. Finding the answer to questions requires a process of taking multiple perspectives into account. Therefore this task can not carried out by an individual which makes it even more important to work in equal groups. 
@@ -361,27 +356,27 @@ leadership in postmodern societies](https://elearning.hslu.ch/ilias/ilias.php?ba
 
 ## IT Governance
 
-### Lessions Learned
-
 IT governance is a crucial aspect of organizational management that ensures effective and efficient use of IT resources, aligning IT strategies with business goals, managing risks, and ensuring compliance with legal and regulatory requirements. It involves the establishment of structures, processes, and mechanisms to guide and control IT activities within an organization.
 
 #### Service Management System ISO/IEC 20000-1:2018:
 A standard that outlines the requirements for establishing, implementing, maintaining, and continually improving a service management system (SMS). It is particularly focused on IT service management (ITSM) and provides a framework for organizations to deliver high-quality services. Compliance with ISO/IEC 20000-1 signifies a commitment to service excellence, process improvement, and customer satisfaction.
 
-<img src="./resources/ISO20000-2.png" alt="ISO-IEC-38500-2015" width="500px"/> 
+<img src="./resources/ISO20000-2.png" alt="ISO-IEC-38500-2015" width="600px"/> 
 
 #### Corporate Governance of IT ISO/IEC 38500:2015:
 Provides principles and guidelines for the effective, efficient, and acceptable use of IT within an organization. It emphasizes the need for alignment between IT and overall business strategy, risk management, and performance measurement. ISO/IEC 38500 is designed to help organizations achieve better governance of their IT activities, ensuring that IT decisions contribute to overall business success.
 
-<img src="./resources/ISO-IEC-38500-2015.jpg" alt="ISO-IEC-38500-2015" width="300px"/> 
+<img src="./resources/ISO-IEC-38500-2015.jpg" alt="ISO-IEC-38500-2015" width="400px"/> 
 
 #### COBIT (Control Objectives for Information and Related Technologies):
 A framework developed by ISACA that provides a comprehensive set of best practices for IT governance and management. It aligns IT goals with business objectives, emphasizing the importance of risk management, resource optimization, and process improvement. COBIT is widely used for establishing and maintaining governance and control over IT processes and is regularly updated to address evolving industry needs.
 
-<img src="./resources/COBIT.png" alt="COBIT" width="400px"/> 
+<img src="./resources/COBIT.png" alt="COBIT" width="500px"/> 
 
 #### ITIL (Information Technology Infrastructure Library):
 ITIL is a set of practices for IT service management (ITSM) that focuses on aligning IT services with the needs of the business. It provides a framework for planning, delivering, and supporting IT services and is widely adopted globally. ITIL defines processes, roles, and responsibilities to improve efficiency, service quality, and customer satisfaction.
+
+<img src="./resources/itil-service-lifecycle.png" alt="ITIL" width="400px"/>
 
 #### Conclusion
 Organizations often integrate multiple standards and frameworks to create a comprehensive IT governance strategy. For example, they might use ISO/IEC 20000-1 for service management, ISO/IEC 38500 for overarching IT governance principles, COBIT for control and governance practices, and ITIL for specific service management processes.
