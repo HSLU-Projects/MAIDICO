@@ -348,7 +348,13 @@ The evaluation process can be carried out by assessing the following key points 
 <img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="450px"/> 
 
 #### Reflection
-With the influencing factors of digitalisation and globalisation, the modern society rapidly changes. Finding the answer to questions requires a process of taking multiple perspectives into account. Therefore this task can not carried out by an individual which makes it even more important to work in equal groups. 
+In the rapidly evolving postmodern landscape, leadership faces unique challenges that demand a departure from traditional models. Embracing a social constructivist basis, systemic thinking, meaningfulness, participatory engagement, empowerment, and bridge-building becomes crucial for effective leadership.
+
+Leadership in this context involves fostering respectful dialogues, acknowledging interrelations, promoting multiple perspectives, and creating shared meaningfulness within the organizational community. Systemic leadership and thinking are essential to navigate the complexities of a digitalized world, while participatory engagement requires leaders to facilitate equal-level interactions and co-construction. 
+Empowerment, seen as both an individual and collective experience, involves continuous processes led by the leader's character traits and actions. Additionally, a philosophy of bridge-building against polarization is pivotal, focusing on inclusivity and unity rather than division.   
+Complementing these leadership principles, strategic tools like the Balanced Score Card (BSC) offer a measurable framework for organizational success, with four equally important dimensions.
+
+In essence, postmodern leadership demands a holistic approach, embracing diversity, fostering meaningful connections, and actively working towards unity and sustainability.
 
 #### Used Materials
 - [New leadership – Rethinking business
