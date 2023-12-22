@@ -366,30 +366,60 @@ A standard that outlines the requirements for establishing, implementing, mainta
 #### Corporate Governance of IT ISO/IEC 38500:2015:
 Provides principles and guidelines for the effective, efficient, and acceptable use of IT within an organization. It emphasizes the need for alignment between IT and overall business strategy, risk management, and performance measurement. ISO/IEC 38500 is designed to help organizations achieve better governance of their IT activities, ensuring that IT decisions contribute to overall business success.
 
-<img src="./resources/ISO-IEC-38500-2015.jpg" alt="ISO-IEC-38500-2015" width="400px"/> 
+__Goals__:
+
+- __Evaluate__: assess the current and future use of IT
+- __Direct__: make sure strategies and policies for the use of IT are defined and implemented
+- __Monitor__: be informed about the performance of IT and about the conformance to the policies
+
+__Key Principles__:
+
+1. __Responsibility__: the responsibility of people and teams in the organisation with respect to the need for IT and its availability should be defined
+2. __Strategy__: IT’s capabilities should be taken into account in the organisation’s business strategy
+3. __Acquisition__: the business case for the acquisition of IT services is to be sound and beneficial for the business outcomes
+4. __Performance__: the utility (fit for purpose) and warranty (fit for use) of IT should be safeguarded
+5. __Conformance__: IT should comply with a regulatory and legal demands
+6. __Human Behaviour__: given it is people who use IT, it better be adapted to their needs
+
+<img src="./resources/ISO-IEC-38500-2015.jpg" alt="ISO-IEC-38500-2015" width="400px"/>
+
 
 #### COBIT (Control Objectives for Information and Related Technologies):
 A framework developed by ISACA that provides a comprehensive set of best practices for IT governance and management. It aligns IT goals with business objectives, emphasizing the importance of risk management, resource optimization, and process improvement. COBIT is widely used for establishing and maintaining governance and control over IT processes and is regularly updated to address evolving industry needs.
 
-<img src="./resources/COBIT.png" alt="COBIT" width="500px"/> 
+<img src="./resources/COBIT.png" alt="COBIT" width="400px"/>
+
+1. __Meeting Stakeholder Needs__: prioritizes understanding and addressing the diverse requirements of stakeholders to ensure IT contributes effectively to business goals.
+2. __Covering the Enterprise End-to-End__: advocates for a comprehensive, enterprise-wide perspective, addressing all facets of IT to prevent oversights in critical areas.
+3. __Applying a Single Integrated Framework__: consolidates various standards into a unified framework, providing organizations with a cohesive approach for managing and governing their IT processes.
+4. __Enabling a Holistic Approach__: Emphasizing integration between business and IT, encourages a holistic perspective, ensuring that IT activities align seamlessly with organizational objectives.
+5. __Separating Governance from Management__: draws a clear distinction between governance (leadership, alignment, and monitoring) and management (planning, building, running), ensuring effective and accountable IT practices.
+
+
+
 
 #### ITIL (Information Technology Infrastructure Library):
 ITIL is a set of practices for IT service management (ITSM) that focuses on aligning IT services with the needs of the business. It provides a framework for planning, delivering, and supporting IT services and is widely adopted globally. ITIL defines processes, roles, and responsibilities to improve efficiency, service quality, and customer satisfaction.
 
+- __Services__: the core principle is centered around ensuring customers receive optimal satisfaction and commitment without additional investment.
+- __Service Assets__: referring to resources, assets in ITIL encompass the infrastructure and facilities provided by service providers to both businesses and customers.
+- __Service Management__: involves efficiently overseeing services to maximize customer benefit, enhancing overall popularity.
+- __Utility, Warranty, and Value__: At the heart of ITIL lies the emphasis on value-based integrity. This principle ensures the delivery of quality services, eliminating constraints and bugs that may affect utility. Warranty guarantees reliability and functionality assurance.
+- __Processes__: practical sets of rules, govern programs or entities, working towards specific targets. They facilitate the transition of input to output, with continuous measurement for adaptability.
+- __Functions__: serve as the medium through which employees and programs execute processes, ensuring operational efficiency.
+- __Roles__: define the specific responsibilities entrusted to entities within a project, delineating their contributions to execution.
+- __Capabilities__: The overall system outlines the specific abilities and achievements entities can attain, facilitating the efficient distribution of roles and responsibilities.
+
 <img src="./resources/itil-service-lifecycle.png" alt="ITIL" width="400px"/>
 
-#### Conclusion
-Organizations often integrate multiple standards and frameworks to create a comprehensive IT governance strategy. For example, they might use ISO/IEC 20000-1 for service management, ISO/IEC 38500 for overarching IT governance principles, COBIT for control and governance practices, and ITIL for specific service management processes.
-
 ### Reflection
-Over 14 years of working experience in IT, transitioning from support to system administration and software development, I've come to deeply value a well-organized IT strategy. Starting in user support, I realized the importance of efficient processes. System administration introduced me to frameworks like ITIL and ISO/IEC 20000-1, emphasizing service management. As a software developer, aligning development with business goals became a priority, highlighting the need for a cohesive strategy.
+With over 14 years of hands-on experience in the field of IT, I've undergone a dynamic journey, transitioning from user support to roles in system administration and software development. Throughout this evolution, my appreciation for a well-organized IT strategy has only deepened. Early in my career in user support, I quickly recognized the pivotal role of efficient processes in ensuring seamless operations.
 
-The integration of ISO/IEC 38500, COBIT, and ITIL has been crucial in achieving IT excellence. These frameworks provide a structured approach, ensuring seamless coordination across IT activities. They've not only shaped my problem-solving approach but also fostered a culture of continuous improvement, a core tenet of ITIL.
-
-Reflecting on my journey, a well-organized IT strategy is not just theoretical; it's a practical necessity. It harmonizes service delivery, risk management, and resource optimization. Looking ahead, I'm ready to contribute to evolving IT governance, embracing new methodologies, and ensuring organizations thrive through robust strategies.
+As I progressed into system administration, I had the opportunity to delve into the ITIL-Framework, a discovery that significantly enriched my understanding of IT management. The insights gained from this framework provided me with a more holistic perspective, emphasizing the importance of structured practices in achieving organizational objectives. Now armed with knowledge about ISO/IEC 20000-1, ISO/IEC 38500, and COBIT, I am excited about the prospect of implementing these frameworks to further enhance and streamline IT governance practices. 
 
 ### Used Material
 - [ISO/IEC 38500 Standard](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6107084)
+- [ISO/IEC 38500 Introduction](https://www.linkedin.com/pulse/isoiec-38500-introduction-dolf-van-der-haven)
 - [ISO/IEC 20000-1 Standard](https://elearning.hslu.ch/ilias/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=6107083)
 - [ITIL ISO20000:2018](https://blog.itil.org/2018/08/iso20002018-version-3-next-generation-service-management-system/)
 - [COBIT Toolkit](https://www.isaca.org/resources/cobit)
