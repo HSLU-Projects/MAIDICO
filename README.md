@@ -343,9 +343,9 @@ Development:
 Evaluation:  
 The evaluation process can be carried out by assessing the following key points for the company:
 
-<img src="./resources/SW12_Governance.png" alt="Subsidiary Governance" width="700px"/>  
+<img src="./resources/SW12_Governance.png" alt="Subsidiary Governance" width="850px"/>  
 
-<img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="350px"/> 
+<img src="./resources/SW12_Digital_Maturity.png" alt="Digital Maturity" width="450px"/> 
 
 #### Reflection
 With the influencing factors of digitalisation and globalisation, the modern society rapidly changes. Finding the answer to questions requires a process of taking multiple perspectives into account. Therefore this task can not carried out by an individual which makes it even more important to work in equal groups. 
