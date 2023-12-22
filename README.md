@@ -387,15 +387,13 @@ __Key Principles__:
 #### COBIT (Control Objectives for Information and Related Technologies):
 A framework developed by ISACA that provides a comprehensive set of best practices for IT governance and management. It aligns IT goals with business objectives, emphasizing the importance of risk management, resource optimization, and process improvement. COBIT is widely used for establishing and maintaining governance and control over IT processes and is regularly updated to address evolving industry needs.
 
-<img src="./resources/COBIT.png" alt="COBIT" width="400px"/>
+<img src="./resources/COBIT.png" alt="COBIT" width="500px"/>
 
 1. __Meeting Stakeholder Needs__: prioritizes understanding and addressing the diverse requirements of stakeholders to ensure IT contributes effectively to business goals.
 2. __Covering the Enterprise End-to-End__: advocates for a comprehensive, enterprise-wide perspective, addressing all facets of IT to prevent oversights in critical areas.
 3. __Applying a Single Integrated Framework__: consolidates various standards into a unified framework, providing organizations with a cohesive approach for managing and governing their IT processes.
 4. __Enabling a Holistic Approach__: Emphasizing integration between business and IT, encourages a holistic perspective, ensuring that IT activities align seamlessly with organizational objectives.
 5. __Separating Governance from Management__: draws a clear distinction between governance (leadership, alignment, and monitoring) and management (planning, building, running), ensuring effective and accountable IT practices.
-
-
 
 
 #### ITIL (Information Technology Infrastructure Library):
